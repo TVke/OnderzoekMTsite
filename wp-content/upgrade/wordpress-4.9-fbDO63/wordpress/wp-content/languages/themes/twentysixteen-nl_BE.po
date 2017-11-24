@@ -1,0 +1,295 @@
+# Translation of Themes - Twenty Sixteen in Dutch (Belgium)
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-30 07:15:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl_BE\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Sixteen"
+msgstr "Twenty Sixteen"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:184 template-parts/content.php:28
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lees verder<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post
+#: image.php:84 template-parts/content-page.php:37
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:45 template-parts/content.php:49
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Wijzig<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:283
+msgid "Red"
+msgstr "Rood"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Een reactie op &ldquo;%s&rdquo;"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Zoek"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Zoek &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken voor:"
+
+#: footer.php:28
+msgid "Footer Social Links Menu"
+msgstr "Footer Social Links Menu"
+
+#: functions.php:158
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Voeg widgets hier toe om te tonen in je zijbalk."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Uitgelicht"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt er op dat we niet kunnen vinden wat je zoekt. Probeer te zoeken."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Er is niets gevonden met die zoektermen. Zoek opnieuw met andere trefwoorden."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Start hier</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "Bekijk alle berichten door %s"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Auteur:"
+
+#: single.php:38
+msgid "Previous post:"
+msgstr "Vorig bericht:"
+
+#: single.php:37
+msgid "Previous"
+msgstr "Vorige"
+
+#: single.php:35
+msgid "Next post:"
+msgstr "Volgend bericht:"
+
+#: single.php:34
+msgid "Next"
+msgstr "Volgende"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor : %s"
+
+#: inc/template-tags.php:106
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/template-tags.php:98
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/template-tags.php:79
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Gepubliceerd op"
+
+#: inc/template-tags.php:38
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laat een reactie<span class=\"screen-reader-text\"> achter op %s</span>"
+
+#: inc/template-tags.php:25
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/customizer.php:293
+msgid "Yellow"
+msgstr "Geel"
+
+#: inc/customizer.php:273
+msgid "Gray"
+msgstr "Grijs"
+
+#: inc/customizer.php:263
+msgid "Dark"
+msgstr "Donker"
+
+#: inc/customizer.php:172
+msgid "Main Text Color"
+msgstr "Hoofdtekst Kleur"
+
+#: inc/customizer.php:253
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/customizer.php:184
+msgid "Secondary Text Color"
+msgstr "Secundaire Tekst Kleur"
+
+#: inc/customizer.php:160
+msgid "Link Color"
+msgstr "Link Kleur"
+
+#: inc/customizer.php:145
+msgid "Page Background Color"
+msgstr "Pagina achtergrondkleur"
+
+#: image.php:102 single.php:29
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Gepubliceerd in</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:41 inc/back-compat.php:53 inc/back-compat.php:68
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Sixteen vereist op zijn minst WordPress 4.4. Je draait nu versie %s. Gelieve alle updates uitvoeren en opnieuw proberen."
+
+#: inc/customizer.php:130
+msgid "Base Color Scheme"
+msgstr "Basis Kleurschema"
+
+#: image.php:73
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Volledige grootte"
+
+#: image.php:56 template-parts/content-page.php:23
+#: template-parts/content-single.php:25 template-parts/content.php:33
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Volgende afbeelding"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "Vorige afbeelding"
+
+#: header.php:47
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Sla over naar de inhoud"
+
+#: functions.php:285
+msgid "collapse child menu"
+msgstr "Voeg submenu samen"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:213
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "op"
+
+#: functions.php:168 functions.php:178
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "Verschijnt onderaan op berichten en pagina's."
+
+#: functions.php:176
+msgid "Content Bottom 2"
+msgstr "Inhoud Onderaan 2"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:203
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "op"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:208
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "op"
+
+#: functions.php:156
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: functions.php:89 header.php:62
+msgid "Social Links Menu"
+msgstr "Sociale Media Links Menu"
+
+#: functions.php:88 header.php:51
+msgid "Primary Menu"
+msgstr "Hoofdmenu"
+
+#: footer.php:51
+msgid "Proudly powered by %s"
+msgstr "Trots ondersteund door %s"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s reactie op &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reacties op &ldquo;%2$s&rdquo;"
+
+#: archive.php:51 image.php:60 index.php:48 search.php:39
+#: template-parts/content-page.php:27 template-parts/content-single.php:29
+#: template-parts/content.php:37
+msgid "Page"
+msgstr "Pagina"
+
+#: archive.php:50 index.php:47 search.php:38
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: archive.php:49 index.php:46 search.php:37
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Hetl ijkt er op dat hier niets is gevonden, probeer een zoekopdracht?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Die pagina kan niet worden gevonden."
